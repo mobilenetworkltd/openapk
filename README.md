@@ -33,10 +33,10 @@
 
 ## Popular
 
-| Icon | Info |
+| App | Info |
 | ----------- | ----------- |
-| <a href="https://www.openapk.net/cofi-brew-timer/com.omelan.cofi/"><img src="https://f-droid.org/repo/com.omelan.cofi/en-US/icon_NLCBaoq0y2OeOH8XR1g2kyBSSiLpotQrA6XZgql7yts=.jpg" height="48"></a> | <a href="https://www.openapk.net/cofi-brew-timer/com.omelan.cofi/"><b>Cofi - Brew Timer</b></a><br>Open-source coffee timer. Easy-to-use interface. Perfect cup every time!<br/><a href="https://github.com/rozPierog/Cofi">Repo</a> &nbsp;&middot;&nbsp; <a href="https://github.com/rozPierog/Cofi/releases">↓Download</a>|
-| <img src="https://f-droid.org/repo/it.fast4x.rimusic/en-US/icon_oRDqDbOen5v6xhhgCMJFAa7l0yPkwB_O5yzuxKLN86I=.png" height="48"> | <a href="https://www.openapk.net"><b>RiMusic</b></a><br><small>A multilingual Android application for streaming music from YouTube Music.</small><br/><a href="https://github.com/fast4x/RiMusic">Repo</a> &nbsp;&middot;&nbsp; <a href="https://github.com/fast4x/RiMusic/releases">↓Download</a> |
+| <a href="https://www.openapk.net/cofi-brew-timer/com.omelan.cofi/"><img src="https://f-droid.org/repo/com.omelan.cofi/en-US/icon_NLCBaoq0y2OeOH8XR1g2kyBSSiLpotQrA6XZgql7yts=.jpg" height="48"></a> | <a href="https://www.openapk.net/cofi-brew-timer/com.omelan.cofi/"><b>Cofi - Brew Timer</b></a><br/>Open-source coffee timer. Easy-to-use interface. Perfect cup every time!<br/><a href="https://github.com/rozPierog/Cofi">Repo</a> &nbsp;&middot;&nbsp; <a href="https://github.com/rozPierog/Cofi/releases">↓Download</a>|
+| <img src="https://f-droid.org/repo/it.fast4x.rimusic/en-US/icon_oRDqDbOen5v6xhhgCMJFAa7l0yPkwB_O5yzuxKLN86I=.png" height="48"> | <a href="https://www.openapk.net"><b>RiMusic</b></a><br/>A multilingual Android application for streaming music from YouTube Music.<br/><a href="https://github.com/fast4x/RiMusic">Repo</a> &nbsp;&middot;&nbsp; <a href="https://github.com/fast4x/RiMusic/releases">↓Download</a> |
 
 ## New
 
