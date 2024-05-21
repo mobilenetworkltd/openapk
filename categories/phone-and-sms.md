@@ -82,7 +82,7 @@ This is a curated list of phone & sms open source apps for Android
 
 ## Main
 
-- [All Apps](../README.md)
+- [All Apps](https://github.com/mobilenetworkltd/openapk)
 
 
 ## Categories

@@ -122,7 +122,7 @@ This is a curated list of multimedia open source apps for Android
 
 ## Main
 
-- [All Apps](../README.md)
+- [All Apps](https://github.com/mobilenetworkltd/openapk)
 
 
 ## Categories

@@ -109,7 +109,7 @@ with a pretty customisable launch<br/><a href="https://github.com/aceventura82/A
 
 ## Main
 
-- [All Apps](../README.md)
+- [All Apps](https://github.com/mobilenetworkltd/openapk)
 
 
 ## Categories

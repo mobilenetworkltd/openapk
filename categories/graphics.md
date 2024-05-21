@@ -85,7 +85,7 @@ forgotte<br/><a href="https://github.com/KillerInk/FreeDcam">Repo</a> &nbsp;&mid
 
 ## Main
 
-- [All Apps](../README.md)
+- [All Apps](https://github.com/mobilenetworkltd/openapk)
 
 
 ## Categories
