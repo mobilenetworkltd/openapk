@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="public/openapk-512.png" height="128">
+  <a href="https://www.openapk.net"><img src="public/openapk-512.png" height="128" alt="OpenAPK.net"></a>
   <h2 align="center"><a href="https://www.openapk.net">OpenAPK</a></h2>
   <p align="center">A cureated list of awesome open source apps and games for Android<p>
 </p>
 
-### [Popular](#popular) &nbsp;&middot;&nbsp; [New](#new) &nbsp;&middot;&nbsp; [Updated](#updated) &nbsp;&middot;&nbsp; [Worth Checking !](#featured)
+### [Popular](#popular) &nbsp;&middot;&nbsp; [New](#new) &nbsp;&middot;&nbsp; [Updated](#updated) &nbsp;&middot;&nbsp; [Featured](#featured)
 
 ![](https://i.imgur.com/waxVImv.png)
+
+> [!TIP]
+> To get your app listed, open an issue mentioning your repo !
 
 ## Categories
 - [Connectivity](#Connectivity)
