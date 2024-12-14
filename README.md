@@ -10,6 +10,10 @@
 
 > [!TIP]
 > To get your app listed, open an issue mentioning your repo !
+> 
+> Use our download banner in your repo readme !
+> 
+> <img src="https://www.openapk.net/images/openapk-badge.png" height="82" alt="OpenAPK.net">
 
 ## Categories
 - [Connectivity](categories/connectivity.md)
