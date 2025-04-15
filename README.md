@@ -24,6 +24,7 @@
 - [Internet](categories/internet.md)
 - [Messaging](categories/messaging.md)
 - [Money](categories/money.md)
+- [Office](categories/office.md)
 - [Multimedia](categories/multimedia.md)
 - [Navigation](categories/navigation.md)
 - [Phone & SMS](categories/phone-and-sms.md)
