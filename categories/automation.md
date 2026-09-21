@@ -41,7 +41,6 @@ This is a curated list of automation open source apps for Android
 | App | Info |
 | :--- | :--- |
 | <a href="https://www.openapk.net/flip-2-dnd/dev.robin.flip_2_dnd/"><img src="https://www.openapk.net/images/icons/flip-2-dnd-apk-for-android.png" height="48" width="48" alt="Flip 2 DND"></a> | <a href="https://www.openapk.net/flip-2-dnd/dev.robin.flip_2_dnd/"><b>Flip 2 DND</b></a><br/>Toggle Do Not Disturb mode by flipping your phone face down<br/><a href="https://github.com/robinsrk/flip_2_dnd">Repo</a> &nbsp;&middot;&nbsp; <a href="https://www.openapk.net/flip-2-dnd/dev.robin.flip_2_dnd/apk/download">↓Download</a> &nbsp;&middot;&nbsp; by <a href="https://github.com/robinsrk">@Abul Kalam Robin</a>|
-| <a href="https://www.openapk.net/battarang-notifier/com.anissan.battarang/"><img src="https://www.openapk.net/images/icons/unnamed-13.png" height="48" width="48" alt="Battarang Notifier"></a> | <a href="https://www.openapk.net/battarang-notifier/com.anissan.battarang/"><b>Battarang Notifier</b></a><br/>Get notified on another device when your android's battery is low or full<br/><a href="https://github.com/ni554n/battarang-notifier-android">Repo</a> &nbsp;&middot;&nbsp; <a href="https://www.openapk.net/battarang-notifier/com.anissan.battarang/apk/download">↓Download</a> &nbsp;&middot;&nbsp; by <a href="https://github.com/ni554n">@Nissan Ahmed</a>|
 | <a href="https://www.openapk.net/rsync-for-tasker/com.nerdoftheherd.tasker.rsync/"><img src="https://www.openapk.net/images/icons/rsync-for-tasker-apk-for-android.png" height="48" width="48" alt="Rsync for Tasker"></a> | <a href="https://www.openapk.net/rsync-for-tasker/com.nerdoftheherd.tasker.rsync/"><b>Rsync for Tasker</b></a><br/>Tasker plugin actions to allow running rsync over SSH<br/><a href="https://github.com/ribbons/TaskerRsync">Repo</a> &nbsp;&middot;&nbsp; <a href="https://www.openapk.net/rsync-for-tasker/com.nerdoftheherd.tasker.rsync/apk/download">↓Download</a> &nbsp;&middot;&nbsp; by <a href="https://github.com/ribbons">@Matt Robinson</a>|
 | <a href="https://www.openapk.net/fileflow/co.adityarajput.fileflow/"><img src="https://www.openapk.net/images/icons/fileflow-apk-for-android.png" height="48" width="48" alt="FileFlow"></a> | <a href="https://www.openapk.net/fileflow/co.adityarajput.fileflow/"><b>FileFlow</b></a><br/>Organize files automatically<br/><a href="https://github.com/BURG3R5/FileFlow">Repo</a> &nbsp;&middot;&nbsp; <a href="https://www.openapk.net/fileflow/co.adityarajput.fileflow/apk/download">↓Download</a> &nbsp;&middot;&nbsp; by <a href="https://github.com/BURG3R5">@Aditya Rajput</a>|
 | <a href="https://www.openapk.net/hassalarm/com.fjun.hassalarm/"><img src="https://www.openapk.net/images/icons/hassalarm-apk-for-android.png" height="48" width="48" alt="Hassalarm"></a> | <a href="https://www.openapk.net/hassalarm/com.fjun.hassalarm/"><b>Hassalarm</b></a><br/>Update Home Assistant (Hass.io) sensor based on next scheduled alarm<br/><a href="https://github.com/Johboh/hassalarm">Repo</a> &nbsp;&middot;&nbsp; <a href="https://www.openapk.net/hassalarm/com.fjun.hassalarm/apk/download">↓Download</a> &nbsp;&middot;&nbsp; by <a href="https://github.com/Johboh">@Johan Böhlin</a>|
@@ -75,6 +74,7 @@ This is a curated list of automation open source apps for Android
 
 
 ## Categories
+- [Automation](../categories/automation.md)
 - [Connectivity](../categories/connectivity.md)
 - [Development](../categories/development.md)
 - [Food](../categories/food.md)
@@ -83,17 +83,19 @@ This is a curated list of automation open source apps for Android
 - [Internet](../categories/internet.md)
 - [Messaging](../categories/messaging.md)
 - [Money](../categories/money.md)
-- [Office](../categories/office.md)
 - [Multimedia](../categories/multimedia.md)
 - [Navigation](../categories/navigation.md)
+- [Office](../categories/office.md)
 - [Phone & SMS](../categories/phone-and-sms.md)
 - [Reading](../categories/reading.md)
 - [Religion](../categories/religion.md)
 - [Science & Education](../categories/science-and-education.md)
 - [Security](../categories/security.md)
+- [Social Network](../categories/social-network.md)
 - [Sports & Health](../categories/sports-and-health.md)
 - [System](../categories/system.md)
 - [Theming](../categories/theming.md)
 - [Time](../categories/time.md)
+- [Weather](../categories/weather.md)
 - [Writing](../categories/writing.md)
 - [Xposed](../categories/xposed.md)

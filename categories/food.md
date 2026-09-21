@@ -36,7 +36,6 @@ This is a curated list of food open source apps for Android
 | App | Info |
 | :--- | :--- |
 | <a href="https://www.openapk.net/food-expirations/com.lorenzovainigli.foodexpirationdates/"><img src="https://www.openapk.net/images/icons/foodexpirationdates-1.png" height="48" width="48" alt="Food Expirations"></a> | <a href="https://www.openapk.net/food-expirations/com.lorenzovainigli.foodexpirationdates/"><b>Food Expirations</b></a><br/>Remember all the expiration dates of your food stocks.<br/><a href="https://github.com/lorenzovngl/FoodExpirationDates">Repo</a> &nbsp;&middot;&nbsp; <a href="https://www.openapk.net/food-expirations/com.lorenzovainigli.foodexpirationdates/apk/download">↓Download</a> &nbsp;&middot;&nbsp; by <a href="https://github.com/lorenzovngl">@Lorenzo Vainigli</a>|
-| <a href="https://www.openapk.net/cavity/com.louis.app.cavity/"><img src="https://www.openapk.net/images/icons/cavity-apk-for-android.png" height="48" width="48" alt="Cavity"></a> | <a href="https://www.openapk.net/cavity/com.louis.app.cavity/"><b>Cavity</b></a><br/>Wine cellar manager<br/><a href="https://github.com/ninjinskii/Cavity">Repo</a> &nbsp;&middot;&nbsp; <a href="https://www.openapk.net/cavity/com.louis.app.cavity/apk/download">↓Download</a> &nbsp;&middot;&nbsp; by <a href="https://github.com/ninjinskii">@Bailly Louis</a>|
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -63,6 +62,7 @@ This is a curated list of food open source apps for Android
 
 
 ## Categories
+- [Automation](../categories/automation.md)
 - [Connectivity](../categories/connectivity.md)
 - [Development](../categories/development.md)
 - [Food](../categories/food.md)
@@ -71,17 +71,19 @@ This is a curated list of food open source apps for Android
 - [Internet](../categories/internet.md)
 - [Messaging](../categories/messaging.md)
 - [Money](../categories/money.md)
-- [Office](../categories/office.md)
 - [Multimedia](../categories/multimedia.md)
 - [Navigation](../categories/navigation.md)
+- [Office](../categories/office.md)
 - [Phone & SMS](../categories/phone-and-sms.md)
 - [Reading](../categories/reading.md)
 - [Religion](../categories/religion.md)
 - [Science & Education](../categories/science-and-education.md)
 - [Security](../categories/security.md)
+- [Social Network](../categories/social-network.md)
 - [Sports & Health](../categories/sports-and-health.md)
 - [System](../categories/system.md)
 - [Theming](../categories/theming.md)
 - [Time](../categories/time.md)
+- [Weather](../categories/weather.md)
 - [Writing](../categories/writing.md)
 - [Xposed](../categories/xposed.md)
